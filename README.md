@@ -21,7 +21,7 @@ This agent can analyze code, answer repository questions, write files, and fix b
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MouleeswaranR/simple_ai_coding_agent.git
 cd coding-agent
 ```
 
